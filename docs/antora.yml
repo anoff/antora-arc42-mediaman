@@ -1,0 +1,6 @@
+name: mediaman
+title: Media Manager
+version: 0.9.0
+start_page: 05_building_block_view.adoc
+nav:
+  - modules/ROOT/nav.adoc

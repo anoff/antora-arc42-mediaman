@@ -1,0 +1,22 @@
+= Media Manager Component
+
+== Level 2 White Box
+
+// tag::level2[]
+[.helptext]
+****
+...describes the internal structure of _building block 1_.
+
+****
+[plantuml, building-block-lvl2-media, png]
+....
+skinparam monochrome true
+title Home Entertainment - Building Block Lvl2 - Media Manager
+footer ACME Inc. %date[yyyy]%
+
+component "Media Manager" as mediaman {
+  node "Sat Receiver" as sat
+  node "Streaming Service" as streaming
+}
+....
+// end::level2[]

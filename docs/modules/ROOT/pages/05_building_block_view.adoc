@@ -1,4 +1,6 @@
 = Media Manager Component
+:page-partial:
+:plantuml-server-url: http://plantuml.com/plantuml
 
 == Level 2 White Box
 
@@ -19,4 +21,6 @@ component "Media Manager" as mediaman {
   node "Streaming Service" as streaming
 }
 ....
+
+This is an explanation of the media manager subsystem written in another repository.
 // end::level2[]
